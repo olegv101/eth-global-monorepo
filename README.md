@@ -45,4 +45,4 @@ https://app.warp.dev/block/pPDCeaUu2Efx454vIOxYSq
 
 - Frontend UI: (https://github.com/olegv101/eth-bangkok-gtm) - npm i && npm run dev
 - Backend: (https://github.com/olegv101/eth-bangkok-gtm-tee) - tee
-- Smart Contracts: () - solidity smart contracts
+- Smart Contracts: (https://github.com/olegv101/eth-bangkok-oleg-contracts) - solidity smart contracts
